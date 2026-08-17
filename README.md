@@ -23,4 +23,4 @@ thermal-conductivity/    see thermal-conductivity/README.md
 
 ## Structures
 
-Ambient conditions only for now (0 GPa, 300 K). More P-T points may be added later.
+Ambient conditions only (0 GPa, 300 K).
