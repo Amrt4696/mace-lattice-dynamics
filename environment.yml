@@ -1,0 +1,16 @@
+name: mace-lattice-dynamics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - phonopy
+  - phono3py
+  - ase>=3.22
+  - numpy
+  - pyyaml
+  - matplotlib
+  - h5py
+  - pip
+  - pip:
+      - torch>=2.0
+      - mace-torch
